@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import JerseyPicker from '../components/JerseyPicker.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <JerseyPicker />
   </main>
 </template>
